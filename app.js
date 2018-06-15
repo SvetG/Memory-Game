@@ -1,8 +1,3 @@
-/*
- * Create a list that holds all of your cards
- */
-
-
 // Card variables
 let allCards = document.querySelectorAll(".card");
 let cardArray = [...allCards]
