@@ -19,7 +19,8 @@ A restart button can be pressed at any time in the game. The restart button resh
 <p>The player has the option to "try again" at any point in the game by clicking the restart icon next to the timer at the top of the page. This will reset the timer, moves, and cards to their original state and replenish any lost stars</p>
 
 ## Starter Code
-Shuffle function: Fisher-Yates (aka Knuth) Shuffle<br>
+JS: Shuffle function: Fisher-Yates (aka Knuth) Shuffle<br>
+https://github.com/udacity/fend-project-memory-game/blob/master/js/app.js<br>
 https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array/2450976#2450976<br>
 
 HTML:<br>
